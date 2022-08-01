@@ -17,3 +17,5 @@
 "Cada um tem a vista da montanha que decidiu escalar."
 
 Entusiasta e apaixonado pela tecnologia.
+
+ ![Snake animation](https://github.com/seeibt/seeibt/blob/output/github-contribution-grid-snake.svg)
