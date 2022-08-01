@@ -14,7 +14,8 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div> <br/>
 
+![Snake animation](https://github.com/seeibt/seeibt/blob/main/github-user-contribution.svg)
+
 "Cada um tem a vista da montanha que decidiu escalar."
 
 Entusiasta e apaixonado pela tecnologia.
-![Snake animation](https://github.com/seeibt/seeibt/blob/main/github-user-contribution.svg)
