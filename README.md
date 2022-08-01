@@ -18,4 +18,4 @@
 
 Entusiasta e apaixonado pela tecnologia.
 
- ![Snake animation](https://github.com/seeibt/seeibt/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/seeibt/seeibt/blob/main/github-user-contribution.svg)
