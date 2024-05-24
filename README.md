@@ -6,6 +6,6 @@
 
 ![Eduardo Seibt's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeibt&show_icons=true&theme=dark)
 
-## "Cada um tem a vista da montanha que decidiu escalar."
+## "Cada um tem a vista da montanha que decidiu escalar!"
 
 
