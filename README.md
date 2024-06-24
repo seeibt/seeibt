@@ -1,5 +1,5 @@
 ### Olá, me chamo Eduardo Matheus Seibt! 👋
-[![HitCount](https://hits.dwyl.com/seeibt/seeibt.svg?style=flat-square)](http://hits.dwyl.com/seeibt/seeibt)
+[![HitCount](https://hits.dwyl.com/seeibt/seeibt.svg?style=flat)](http://hits.dwyl.com/seeibt/seeibt)
 #### Entusiasta e apaixonado pela tecnologia.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seeibt)
