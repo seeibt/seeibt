@@ -10,13 +10,25 @@
 
 ## 🧑‍💻 Hard Skills
 <div align="center">
+  <!-- Front/Dev -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+  <!-- Plataformas -->
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white">
+
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  
+  <!-- Infra/DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seeibt&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seeibt&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seeibt&theme=github_dark) |
