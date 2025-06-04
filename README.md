@@ -8,7 +8,7 @@
   <a href="https://instagram.com/seeibt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 🧑‍💻 Hard Skills
+## 🧑‍💻 Stack
 <div align="center">
   <!-- Front/Dev -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
